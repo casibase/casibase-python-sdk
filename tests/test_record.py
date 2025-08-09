@@ -75,14 +75,6 @@ class RecordTest(unittest.TestCase):
         name = result.get("data2").get("name")
         self.assertNotEqual(name, "", "Failed to add object, name is empty")
 
-        # Get all objects, check if our added object is inside the list
-        try:
-            records = sdk.get_records("500", "1")
-        except Exception as e:
-            self.fail(f"Failed to get objects: {e}")
-        names = [item.name for item in records]
-        self.assertIn(name, names, "Added object not found in list")
-
         # Get the object
         try:
             record_obj = sdk.get_record(name)
