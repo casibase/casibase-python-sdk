@@ -1,5 +1,5 @@
 [project]
-name = "casibase"
+name = "casibase-python-sdk"
 version = "0.0.1"
 authors = [{name = "Casibase", email = "admin@casibase.org"}]
 description = "Python SDK built for Casibase"
