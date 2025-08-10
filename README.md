@@ -8,6 +8,7 @@
 [![Download](https://static.pepy.tech/badge/casibase-python-sdk)](https://pypi.org/project/casibase-python-sdk/)
 [![License](https://img.shields.io/pypi/l/casibase-python-sdk.svg)](https://pypi.org/project/casibase-python-sdk/)
 [![Discord](https://img.shields.io/discord/1022748306096537660?logo=discord&label=discord&color=5865F2)](https://discord.gg/5rPsrAzK7S)
+
 This is the Python SDK for Casibase, which allows you to easily call Casibase's API.
 
 casibase-python-sdk is available on PyPI:
