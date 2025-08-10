@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.1.0](https://github.com/casibase/casibase-python-sdk/compare/v1.0.0...v1.1.0) (2025-08-10)
+
+
+### Features
+
+* improve package src folder structure ([#4](https://github.com/casibase/casibase-python-sdk/issues/4)) ([e711032](https://github.com/casibase/casibase-python-sdk/commit/e7110329ef257e62968e18e58905dcf11269d2b4))
+
 # 1.0.0 (2025-08-10)
 
 
