@@ -52,10 +52,10 @@ fixable = ["I", "F"]
 unfixable = []
 
 [tool.hatch.version]
-path = "src/__init__.py"
+path = "src/casibase_python_sdk/__init__.py"
 
 [tool.hatch.build.targets.sdist]
-include = ["/src"]
+include = ["/src/casibase_python_sdk"]
 
 [tool.hatch.build.targets.wheel]
-packages = ["src"]
+packages = ["src/casibase_python_sdk"]

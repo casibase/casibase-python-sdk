@@ -15,8 +15,8 @@
 import unittest
 
 import tests.test_util as test_util
-from src.main import CasibaseSDK
-from src.store import Store
+from src.casibase_python_sdk.main import CasibaseSDK
+from src.casibase_python_sdk.store import Store
 
 
 class StoreTest(unittest.TestCase):
