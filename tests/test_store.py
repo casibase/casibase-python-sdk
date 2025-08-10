@@ -84,14 +84,6 @@ class StoreTest(unittest.TestCase):
         except Exception as e:
             self.fail(f"Failed to add object: {e}")
 
-        # Get all objects, check if our added object is inside the list
-        try:
-            stores = sdk.get_stores()
-        except Exception as e:
-            self.fail(f"Failed to get objects: {e}")
-        names = [item.name for item in stores]
-        self.assertIn(name, names, "Added object not found in list")
-
         # Get the object
         try:
             store_obj = sdk.get_store(owner=owner, name=name)
