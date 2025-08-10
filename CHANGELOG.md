@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.2.0](https://github.com/casibase/casibase-python-sdk/compare/v1.1.0...v1.2.0) (2025-08-10)
+
+
+### Features
+
+* add README ([#5](https://github.com/casibase/casibase-python-sdk/issues/5)) ([c2f9beb](https://github.com/casibase/casibase-python-sdk/commit/c2f9beb3ca2b18cc1c8b9bdb19ac1c93003a9b64))
+
 # [1.1.0](https://github.com/casibase/casibase-python-sdk/compare/v1.0.0...v1.1.0) (2025-08-10)
 
 
