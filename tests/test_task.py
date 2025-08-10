@@ -16,8 +16,8 @@ import datetime
 import unittest
 
 import tests.test_util as test_util
-from src.main import CasibaseSDK
-from src.task import Task
+from src.casibase_python_sdk.main import CasibaseSDK
+from src.casibase_python_sdk.task import Task
 
 
 class TaskTest(unittest.TestCase):
