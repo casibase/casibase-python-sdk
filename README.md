@@ -1,7 +1,7 @@
 # casibase-python-sdk
 
-[![build Status](https://github.com/casdoor/casdoor-python-sdk/actions/workflows/build.yml/badge.svg)](https://github.com/casdoor/casdoor-python-sdk/actions/workflows/build.yml)
-[![Coverage Status](https://coveralls.io/repos/github/casdoor/casdoor-python-sdk/badge.svg)](https://coveralls.io/github/casdoor/casdoor-python-sdk)
+[![build Status](https://github.com/casibase/casibase-python-sdk/actions/workflows/build.yml/badge.svg)](https://github.com/casibase/casibase-python-sdk/actions/workflows/build.yml)
+[![Coverage Status](https://coveralls.io/repos/github/casibase/casibase-python-sdk/badge.svg)](https://coveralls.io/github/casibase/casibase-python-sdk)
 [![Version](https://img.shields.io/pypi/v/casibase-python-sdk.svg)](https://pypi.org/project/casibase-python-sdk)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/casibase-python-sdk.svg)](https://pypi.org/project/casibase-python-sdk)
 [![Pyversions](https://img.shields.io/pypi/pyversions/casibase-python-sdk.svg)](https://pypi.org/project/casibase-python-sdk)
